@@ -9,7 +9,7 @@ The core claim: AI adoption is not a tooling problem. Every failed AI initiative
 | File | Contents |
 |---|---|
 | [playbook.md](playbook.md) | The rollout, phase by phase |
-| [use-cases.md](use-cases.md) | Where AI actually lands in platform and infrastructure work |
+| [use_cases.md](use_cases.md) | Where AI actually lands in platform and infrastructure work |
 
 ## The principles
 
