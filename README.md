@@ -1,6 +1,6 @@
 # AI First Engineering
 
-How to take an engineering organization from scattered AI experimentation to AI as the default way work gets done. I led this shift at a company of roughly 100 engineers, taking daily AI usage from about 30% of people to effectively 100%, across engineering and the business teams around it. This repo is the genericized playbook: what worked, what order to do it in, and what fails.
+How to take an engineering organization from scattered AI experimentation to AI as the default way work gets done. I led this shift at a company of roughly 100 engineers, taking AI from something a third of people touched to part of how every engineer works daily, across engineering and the business teams around it. This repo is the genericized playbook: what worked, what order to do it in, and what fails.
 
 The core claim: AI adoption is not a tooling problem. Every failed AI initiative I have seen bought the tools first and assumed behavior would follow. It does not. AI adoption is a change to how work flows through your organization, and it has to be led the way any operating change is led.
 
@@ -28,3 +28,7 @@ The core claim: AI adoption is not a tooling problem. Every failed AI initiative
 ## Why platform teams should own this
 
 AI transformation initiatives die in two places: legal review and infrastructure friction. A platform organization is positioned to kill both. It already owns the deployment pipeline, the incident tooling, the developer experience, and the security posture. That means it can wire AI into the paths everyone uses and make the secure way the easy way. If your AI initiative lives in a slide deck instead of the deploy pipeline, it is not an initiative yet.
+
+## License
+
+MIT. By [Robert Ball-Konieczny](https://onebk.io).
